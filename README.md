@@ -1,5 +1,6 @@
 # Unity
-## 1. Player 움직이기
+## 오브젝트 컨트롤하기
+### 1. Player 움직이기(앞, 뒤, 옆)
 1. 필요 Inspector Component
    1. Component란?
    - 게임 오브젝트의 동작을 제어하기 위해 추가하는 기능 모듈
@@ -54,3 +55,4 @@ public class PlayerController : MonoBehaviour
     }
 }
  ```
+### 오브젝트
